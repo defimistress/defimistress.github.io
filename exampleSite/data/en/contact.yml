@@ -11,11 +11,10 @@ contact:
       info : KOCATEPE MAH.YAĞ İSKELESİ CAD. C-32 BLOK NO:15 İÇ KAPI NO.24 BAYRAMPAŞA
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: + 90 (212) 963 08 41
-+ 90 (507) 587 51 07"
+      info : "Phone: + 90 (212) 963 08 41"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: + 90 (507) 587 51 07"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: hello@meghna.com"
