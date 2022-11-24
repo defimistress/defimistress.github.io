@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
+  #title : Contact Us
   subtitle : Contact Details
-  content : FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKETİ
+  content : FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKET - Technical solutions future!
 
   # Contact details
   contact_list:
