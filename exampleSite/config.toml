@@ -24,7 +24,7 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
-
+# link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 # js plugins
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
