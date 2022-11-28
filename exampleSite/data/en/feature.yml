@@ -4,7 +4,33 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : "Window, door, industrial seals
+Electronics and home appliances
+Furniture fittings
+Components for cars and agricultural machinery; car mats
+Waterstops
+Anti-slip systems
+Construction tools and inventory
+Modification of propylene, high-impact polystyrene
+Kids toys
+Telecommunication cables
+Power cables
+Mounting cables
+Control cables
+Ship cables
+Railway cables
+Some brands of optical cable
+Low and medium voltage cables
+Cabling and wiring products for controlling conveyor and lifting equipment we eat, gaskets for
+security and fire alarm systems and signal wires
+In power supply systems of metro lines
+Shoes: garden shoes, beach shoes, sandals, sports shoes, boots, galoshes, components (soles,
+insoles, etc.)
+Tire tread compounds
+Insulation compounds
+Compounds for vulcanizing diaphragms
+Tire carcass compounds
+Tire sidewall compounds"
   feature_item : 
       # feature item loop
 #    - title : SEO Optimized
