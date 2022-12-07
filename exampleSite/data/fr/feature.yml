@@ -4,7 +4,74 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : "Pencere, kapı, endüstriyel contalar
+
+Elektronik ve ev aletleri
+
+
+Mobilya parçaları
+
+
+Arabalar ve tarım makineleri için bileşenler; araba paspasları
+
+
+Su tutucular
+
+
+Kaymaz sistemler
+
+
+İnşaat araçları ve envanter
+
+
+Propilen modifikasyonu, yüksek etkili polistiren
+
+
+Çocuk oyuncakları
+
+
+Telekomünikasyon kabloları
+
+
+Güç kabloları
+
+
+Montaj kabloları
+
+
+Kontrol kabloları
+
+
+Gemi kabloları
+
+
+Demiryolu kabloları
+
+
+Bazı optik kablo markaları
+
+
+Alçak ve orta gerilim kabloları
+
+
+Kaldırma ekipmanlarının kontrolü için kablolama ve kablolama ürünleri, güvenlik ve yangın alarm sistemleri için contalar ve sinyal telleri
+
+
+Metro hatlarının güç kaynağı sistemlerinde
+
+
+Ayakkabılar: bahçe ayakkabıları, plaj ayakkabıları, sandaletler, spor ayakkabılar, botlar, galoşlar, bileşenler (tabanlar, tabanlıklar vb.)
+
+
+Lastik sırtı bileşikleri
+
+
+Yalıtım bileşikleri
+
+
+Diyaframları vulkanize etmek için bileşikler
+
+Lastik karkas bileşikler"
   feature_item : 
       # feature item loop
  #   - title : SEO Optimized
