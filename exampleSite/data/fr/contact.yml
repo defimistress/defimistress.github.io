@@ -1,31 +1,31 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
+#  title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKETİ
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : KOCATEPE MAH.YAĞ İSKELESİ CAD. C-32 BLOK NO:15 İÇ KAPI NO.24 BAYRAMPAŞA
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: + 90 (212) 963 08 41"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: + 90 (507) 587 51 07"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: info@fnxkimyatr.com"
 
 
   # Contact form
-  contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "votre nom"
-    email : "Votre email"
-    subject : "Matière"
-    message : "Message"
-    submit : "Soumettre"
+#  contact_form:
+#    enable : true
+#    form_action : "#" #contact form works with https://formspree.io
+#    name : "votre nom"
+#    email : "Votre email"
+#    subject : "Matière"
+#    message : "Message"
+#    submit : "Soumettre"
