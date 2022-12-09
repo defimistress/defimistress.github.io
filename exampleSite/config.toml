@@ -53,7 +53,7 @@ weight = 1
 #weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = " Trade marks "
 url = "#portfolio"
 weight = 3
 
