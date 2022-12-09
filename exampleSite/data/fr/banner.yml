@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "Ticari Markalar"
-    link : "#services"
+    link : "#portfolio"
