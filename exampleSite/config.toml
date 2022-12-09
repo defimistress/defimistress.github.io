@@ -57,10 +57,10 @@ name = " Trade marks "
 url = "#portfolio"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "team"
+#url = "#team"
+#weight = 4
 
 [[Languages.en.menu.main]]
 name = "pricing"
