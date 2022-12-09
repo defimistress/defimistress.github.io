@@ -115,7 +115,7 @@ weight = 3
 #weight = 6
 
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 
