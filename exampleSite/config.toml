@@ -89,10 +89,10 @@ name = " Bizim hakkımızda "
 url = "#about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
+#[[Languages.fr.menu.main]]
+#name = "un service"
+#url = "#services"
+#weight = 2
 
 [[Languages.fr.menu.main]]
 name = "portefeuille"
