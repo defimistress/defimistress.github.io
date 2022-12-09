@@ -99,10 +99,10 @@ name = " Ticari markalar"
 url = "#portfolio"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
+#[[Languages.fr.menu.main]]
+#name = "équipe"
+#url = "#team"
+#weight = 4
 
 [[Languages.fr.menu.main]]
 name = "tarification"
