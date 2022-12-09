@@ -190,7 +190,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 
 ################################ France Language ########################
 [Languages.fr]
-languageName = "Fr"
+languageName = "Tr"
 languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
