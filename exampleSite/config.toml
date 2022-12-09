@@ -77,10 +77,10 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+#[[Languages.en.menu.main]]
+#name = "themefisher"
+#url = "https://themefisher.com/"
+#weight = 8
 
 
 ################### French Navigation ########################
