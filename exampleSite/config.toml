@@ -104,10 +104,10 @@ weight = 3
 #url = "#team"
 #weight = 4
 
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
+#[[Languages.fr.menu.main]]
+#name = "tarification"
+#url = "#pricing"
+#weight = 5
 
 [[Languages.fr.menu.main]]
 name = "blog"
