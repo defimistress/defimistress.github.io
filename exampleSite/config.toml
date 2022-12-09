@@ -73,7 +73,7 @@ weight = 3
 #weight = 6
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 
