@@ -85,7 +85,7 @@ weight = 7
 
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
-name = "sur"
+name = " Bizim hakkımızda "
 url = "#about"
 weight = 1
 
