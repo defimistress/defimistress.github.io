@@ -109,10 +109,10 @@ weight = 3
 #url = "#pricing"
 #weight = 5
 
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
+#[[Languages.fr.menu.main]]
+#name = "blog"
+#url = "#blog"
+#weight = 6
 
 [[Languages.fr.menu.main]]
 name = "contact"
