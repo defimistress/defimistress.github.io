@@ -2,11 +2,11 @@
 about:
   enable : true
   title : About Us
-#  about_item :
-#  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-#    title : We're Creative
-#    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-#
+  
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKET - Technical solutions future!
+    content : <blockquote>FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKET is a technology company that unites manufacturing, engineering and trading companies in the field of creating new generation polymeric materials.</blockquote><blockquote> FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKET is the company has been producing Ethylene Vinyl Acetate (EVA) compounds, SEBS\SBS thermoplastic copolymers and compounds based on synthetic and natural rubbers since 2012. </blockquote><blockquote> Thermoplastic compositions are rapidly conquering the market, replacing traditional materials such as PVC, rubber, latex, polyurethane. Thermoplastic elastomers are unique polymeric materials that are actively used for the manufacture of products in various industries&colon; automotive, cable industry, medical industry, etc. </blockquote><blockquote> With a modern laboratory, we are able to offer not only smart ready-made solutions, but also to create completely new ones in the shortest possible time materials for the specific specifics of your project. Availability of pilot units innovation allows to reduce the time of introduction of new developments into production. </blockquote><blockquote> You can rely on consistently high product quality as well as short flexible and flexible delivery times, walking distance. Working with each consumer telecom, bypassing the chains of distributors, we provide the maximum level service and technical support to each client. Collaboration in the field development of new products guarantees success in solving any problems.</blockquote>
 #  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
 #    title : We're Professional
 #    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
