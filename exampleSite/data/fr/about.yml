@@ -3,6 +3,9 @@ about:
   enable : true
   title : Bizim Hakkımızda
   about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKET – Gelecek Için Teknik Çözümler!
+    content : <blockquote>FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKET, yeni nesil polimerik malzemeler oluşturma alanında imalat, mühendislik ve ticaret firmalarını birleştiren bir teknoloji firmasıdır.</blockquote><blockquote>FNX KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKET 2012 yılından bu yana Etilen Vinil Asetat (EVA) bileşikleri, SEBS\SBS termoplastik kopolimerleri ve sentetik ve doğal kauçuk bazlı bileşikler üreten bir firmadır.</blockquote><blockquote>Termoplastik bileşimler, PVC, kauçuk, lateks, poliüretan gibi geleneksel malzemelerin yerini alarak pazarı hızla fethediyor. Termoplastik elastomerler, otomotiv, kablo endüstrisi, tıp endüstrisi vb. gibi çeşitli endüstrilerde ürünlerin imalatında aktif olarak kullanılan benzersiz polimerik malzemelerdir.</blockquote><blockquote>Modern bir laboratuvarla, sadece akıllı hazır çözümler sunmakla kalmıyor, aynı zamanda projenizin spesifik özellikleri için mümkün olan en kısa sürede tamamen yenilerini oluşturabiliyoruz. Pilot ünite inovasyonunun mevcudiyeti, yeni gelişmelerin üretime girme süresini kısaltmaya izin verir.</blockquote><blockquote>Sürekli olarak yüksek ürün kalitesine ve kısa, esnek ve teslimat sürelerine, güvenebilirsiniz. Her tüketici birimi ile çalışarak, her müşteriye maksimum düzeyde hizmet ve teknik destek sağlıyoruz. Yeni ürünlerin saha geliştirme alanındaki işbirliği, herhangi bir sorunun çözülmesinde başarıyı garanti eder.
  # - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
  #   title : We're Creative
  #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
