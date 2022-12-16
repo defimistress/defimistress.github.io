@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "/"
 #title = "Meghna"
-theme = "meghna-hugo"
+theme = "defimistress"
 themesDir = "../.."
 # post pagination
 paginate = "6"
