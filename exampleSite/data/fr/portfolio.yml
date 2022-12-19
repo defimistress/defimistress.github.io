@@ -9,7 +9,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
       content : Compounds based on thermoplastic polymers SEBS\SBS
-      link : "https://themefisher.com"
+      link : "#"
       
     # portfolio item loop
     - name : Sound system
