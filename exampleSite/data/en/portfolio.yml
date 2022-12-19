@@ -12,11 +12,11 @@ portfolio:
       link : "https://themefisher.com"
       
     # portfolio item loop
-    - name : Sound system
+    - name : Fenixgen
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
       categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : EVA based compounds
       link : ""
       
     # portfolio item loop
