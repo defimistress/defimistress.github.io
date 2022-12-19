@@ -20,11 +20,11 @@ portfolio:
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
+    - name : Fenixupra
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
       categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Compounds based on synthetic and natural rubbers for the tire industry
       link : "#"
       
     # portfolio item loop
