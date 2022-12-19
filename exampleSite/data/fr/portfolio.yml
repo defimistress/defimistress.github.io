@@ -4,11 +4,11 @@ portfolio:
   title : Ticari Markalar
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Fenixduo
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Compounds based on thermoplastic polymers SEBS\SBS
       link : "https://themefisher.com"
       
     # portfolio item loop
