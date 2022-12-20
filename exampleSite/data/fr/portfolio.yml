@@ -8,7 +8,7 @@ portfolio:
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
-      content : Compounds based on thermoplastic polymers SEBS\SBS
+      content : Termoplastik polimerlere dayalı bileşikler SEBS\SBS
       link : "#"
       
     # portfolio item loop
