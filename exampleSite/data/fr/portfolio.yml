@@ -68,9 +68,9 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Fenixgen
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
       categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : EVA bazlı bileşikler
       link : "#"
