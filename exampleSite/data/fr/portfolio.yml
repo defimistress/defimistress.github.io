@@ -1,5 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
+  pdfportfolio: /pdf/FNX_Tr.pdf
+  moreinfo: More about
   enable : true
   title : Ticari Markalar
   portfolio_item :
